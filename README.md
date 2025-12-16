@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 currently:
-- 💻 computer science 
+- 💻 computer science major
 - 🏆 Phi Theta Kappa Member
