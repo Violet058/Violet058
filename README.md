@@ -1,5 +1,5 @@
 # Hello, World! 🌎 I'm Anna 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=-💻+computer+science+major;🏆+Phi+Theta+Kappa+Member)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Always+learning+new+things!;Backend+Web+Developer)](https://git.io/typing-svg)
 <!--
 **Violet058/Violet058** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- currently:
+currently:
 - 💻 computer science major
 - 🏆 Phi Theta Kappa Member
--->
+
