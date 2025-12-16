@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 currently:
-- 💻 computer science @ lake forest college
+- 💻 computer science 
 - 🏆 Phi Theta Kappa Member
