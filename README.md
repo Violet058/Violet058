@@ -1,4 +1,7 @@
-# Hello, World! 🌎 I'm Anna; Software+Developer;Always+learning+new+things!)](https://git.io/typing-svg)
+# Hello, World! 🌎 I'm Anna 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aspiring+Full-Stack+Developer;With+strong+foundations+in;Java,+Python,+CSS,+HTML,+C,+SQL)](https://git.io/typing-svg)
+
+
 <!--
 **Violet058/Violet058** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 currently:
-- 💻 computer science major
+- 💻 Computer Science major
 - 🏆 Phi Theta Kappa Member
 
