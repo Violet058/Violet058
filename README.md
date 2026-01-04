@@ -1,5 +1,4 @@
-# Hello, World! 🌎 I'm Anna 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Web+Developer;Always+learning+new+things!)](https://git.io/typing-svg)
+# Hello, World! 🌎 I'm Anna Software+Developer;Always+learning+new+things!)](https://git.io/typing-svg)
 <!--
 **Violet058/Violet058** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
