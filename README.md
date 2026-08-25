@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 currently:
-- 💻 Computer Science major
+- 💻 Computer Science Major + AI Minor
+- Junior @ Lake Forest College
 - 🏆 Phi Theta Kappa Member
 
