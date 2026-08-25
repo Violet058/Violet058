@@ -1,5 +1,5 @@
 # Hello, World! 🌎 I'm Anna 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aspiring+Full-Stack+Developer;With+strong+foundations+in;Java,+Python,+CSS,+HTML,+C,+SQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aspiring+Full-Stack+Developer;With+strong+foundations+in;Java,+Python)](https://git.io/typing-svg)
 
 
 <!--
